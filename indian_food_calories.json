@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Rice",
+      "serving_size": "100g",
+      "calories_per_serving": 130
+    },
+    {
+      "name": "Chapati",
+      "serving_size": "100g",
+      "calories_per_serving": 104
+    },
+    {
+      "name": "Dal",
+      "serving_size": "100g",
+      "calories_per_serving": 116
+    },
+    {
+      "name": "Paneer",
+      "serving_size": "100g",
+      "calories_per_serving": 296
+    },
+    {
+      "name": "Chicken Curry",
+      "serving_size": "100g",
+      "calories_per_serving": 250
+    },
+    {
+      "name": "Fish Curry",
+      "serving_size": "100g",
+      "calories_per_serving": 235
+    },
+    {
+      "name": "Aloo Gobi",
+      "serving_size": "100g",
+      "calories_per_serving": 120
+    },
+    {
+      "name": "Butter Chicken",
+      "serving_size": "100g",
+      "calories_per_serving": 400
+    },
+    {
+      "name": "Samosa",
+      "serving_size": "100g",
+      "calories_per_serving": 120
+    },
+    {
+      "name": "Biryani",
+      "serving_size": "100g",
+      "calories_per_serving": 270
+    },
+    {
+      "name": "Pulao",
+      "serving_size": "100g",
+      "calories_per_serving": 200
+    },
+    {
+      "name": "Naan",
+      "serving_size": "100g",
+      "calories_per_serving": 240
+    },
+    {
+      "name": "Lassi",
+      "serving_size": "100g",
+      "calories_per_serving": 150
+    },
+    {
+      "name": "Mango Lassi",
+      "serving_size": "100g",
+      "calories_per_serving": 180
+    },
+    {
+      "name": "Gulab Jamun",
+      "serving_size": "50g",
+      "calories_per_serving": 150
+    },
+    {
+      "name": "Raita",
+      "serving_size": "100g",
+      "calories_per_serving": 55
+    },
+    {
+      "name": "Chole",
+      "serving_size": "100g",
+      "calories_per_serving": 160
+    },
+    {
+      "name": "Pav Bhaji",
+      "serving_size": "100g",
+      "calories_per_serving": 250
+    },
+    {
+      "name": "Aloo Tikki",
+      "serving_size": "100g",
+      "calories_per_serving": 150
+    },
+    {
+      "name": "Vada Pav",
+      "serving_size": "100g",
+      "calories_per_serving": 250
+    },
+    {
+      "name": "Dosa",
+      "serving_size": "100g",
+      "calories_per_serving": 180
+    },
+    {
+      "name": "Idli",
+      "serving_size": "100g",
+      "calories_per_serving": 120
+    },
+    {
+      "name": "Kadhi Pakora",
+      "serving_size": "100g",
+      "calories_per_serving": 150
+    },
+    {
+      "name": "Sambar",
+      "serving_size": "100g",
+      "calories_per_serving": 90
+    },
+    {
+      "name": "Tandoori Chicken",
+      "serving_size": "100g",
+      "calories_per_serving": 250
+    },
+    {
+      "name": "Lassi (Sweet)",
+      "serving_size": "100g",
+      "calories_per_serving": 160
+    },
+    {
+      "name": "Kheer",
+      "serving_size": "100g",
+      "calories_per_serving": 150
+    },
+    {
+      "name": "Pista Kulfi",
+      "serving_size": "100g",
+      "calories_per_serving": 200
+    }
+  ]
+  

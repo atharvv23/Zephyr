@@ -1,0 +1,138 @@
+{
+    "Mumbai": [
+      {
+        "name": "Gold's Gym",
+        "location": "Bandra, Mumbai",
+        "rating": 4.5
+      },
+      {
+        "name": "Anytime Fitness",
+        "location": "Andheri, Mumbai",
+        "rating": 4.3
+      },
+      {
+        "name": "Fitness First",
+        "location": "Lower Parel, Mumbai",
+        "rating": 4.2
+      },
+      {
+        "name": "Snap Fitness",
+        "location": "Kandivali, Mumbai",
+        "rating": 4.0
+      },
+      {
+        "name": "Talwalkars Gym",
+        "location": "Juhu, Mumbai",
+        "rating": 4.1
+      }
+    ],
+    "Delhi": [
+      {
+        "name": "Gold's Gym",
+        "location": "Connaught Place, Delhi",
+        "rating": 4.6
+      },
+      {
+        "name": "Ozone Fitness",
+        "location": "Saket, Delhi",
+        "rating": 4.3
+      },
+      {
+        "name": "Reebok CrossFit",
+        "location": "Khan Market, Delhi",
+        "rating": 4.4
+      },
+      {
+        "name": "Fitness Hub",
+        "location": "Lajpat Nagar, Delhi",
+        "rating": 4.2
+      },
+      {
+        "name": "Anytime Fitness",
+        "location": "Dwarka, Delhi",
+        "rating": 4.0
+      }
+    ],
+    "Bangalore": [
+      {
+        "name": "Cult.fit",
+        "location": "Indiranagar, Bangalore",
+        "rating": 4.7
+      },
+      {
+        "name": "Gold's Gym",
+        "location": "MG Road, Bangalore",
+        "rating": 4.5
+      },
+      {
+        "name": "Anytime Fitness",
+        "location": "Koramangala, Bangalore",
+        "rating": 4.4
+      },
+      {
+        "name": "Snap Fitness",
+        "location": "Whitefield, Bangalore",
+        "rating": 4.2
+      },
+      {
+        "name": "Fitness First",
+        "location": "Jayanagar, Bangalore",
+        "rating": 4.3
+      }
+    ],
+    "Chennai": [
+      {
+        "name": "Gold's Gym",
+        "location": "T Nagar, Chennai",
+        "rating": 4.6
+      },
+      {
+        "name": "Ozone Fitness",
+        "location": "Velachery, Chennai",
+        "rating": 4.4
+      },
+      {
+        "name": "Fitness First",
+        "location": "Adyar, Chennai",
+        "rating": 4.3
+      },
+      {
+        "name": "Talwalkars Gym",
+        "location": "Anna Nagar, Chennai",
+        "rating": 4.2
+      },
+      {
+        "name": "Anytime Fitness",
+        "location": "Ekkatuthangal, Chennai",
+        "rating": 4.1
+      }
+    ],
+    "Hyderabad": [
+      {
+        "name": "Gold's Gym",
+        "location": "Banjara Hills, Hyderabad",
+        "rating": 4.7
+      },
+      {
+        "name": "Talwalkars Gym",
+        "location": "Ameerpet, Hyderabad",
+        "rating": 4.5
+      },
+      {
+        "name": "Snap Fitness",
+        "location": "Kondapur, Hyderabad",
+        "rating": 4.4
+      },
+      {
+        "name": "Anytime Fitness",
+        "location": "Hitech City, Hyderabad",
+        "rating": 4.3
+      },
+      {
+        "name": "Cult.fit",
+        "location": "Gachibowli, Hyderabad",
+        "rating": 4.2
+      }
+    ]
+  }
+  
